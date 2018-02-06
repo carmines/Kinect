@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ofxKinectV2">
+      <UniqueIdentifier>{9639d155-9b13-424b-b194-960004ceac09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ofxKinectV2\libs">
+      <UniqueIdentifier>{cb689ad7-e247-44a0-ab45-d7c4d9c40b96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ofxKinectV2\src">
+      <UniqueIdentifier>{99cf6511-70fc-43c4-9b01-13fd3e8ed88f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ofxKinectV2\libs\KCBv2">
+      <UniqueIdentifier>{87c6fbae-3282-44a9-9f7b-114ca00a63f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ofxKinectV2\libs\KCBv2\include">
+      <UniqueIdentifier>{49c326ac-0d65-4e42-a788-f49635f2c3a3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\ofxKinectCommonBridge.h">
+      <Filter>ofxKinectV2\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\libs\KCBv2\include\KCBv2Lib.h">
+      <Filter>ofxKinectV2\libs\KCBv2\include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\ofxKinectCommonBridge.cpp">
+      <Filter>ofxKinectV2\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

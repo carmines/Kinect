@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\src\RibbonApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\blocks\Cinder-KCB2\src\Kinect2.cpp">
+      <Filter>blocks\Cincer-KCB2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="blocks">
+      <UniqueIdentifier>{37276c59-253a-4b8b-b9d3-2c1286f5e0fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="blocks\Cincer-KCB2">
+      <UniqueIdentifier>{1d77a918-85ba-43ce-9d4d-344c80cce1da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{2d8c2416-7782-460c-9fc0-7bad90eab5fd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\blocks\Cinder-KCB2\lib\KCBv2Lib.h">
+      <Filter>blocks\Cincer-KCB2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\blocks\Cinder-KCB2\src\Kinect2.h">
+      <Filter>blocks\Cincer-KCB2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

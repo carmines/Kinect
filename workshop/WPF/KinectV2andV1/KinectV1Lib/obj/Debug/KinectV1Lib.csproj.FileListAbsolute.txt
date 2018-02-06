@@ -1,0 +1,5 @@
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV1Lib\bin\Debug\KinectV1Lib.dll
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV1Lib\bin\Debug\KinectV1Lib.pdb
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV1Lib\obj\Debug\KinectV1Lib.csprojResolveAssemblyReference.cache
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV1Lib\obj\Debug\KinectV1Lib.dll
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV1Lib\obj\Debug\KinectV1Lib.pdb

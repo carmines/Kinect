@@ -1,0 +1,17 @@
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\bin\Debug\KinectV2andV1.exe.config
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\obj\Debug\KinectV2andV1.csprojResolveAssemblyReference.cache
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\obj\Debug\MainWindow.baml
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\obj\Debug\MainWindow.g.cs
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\obj\Debug\App.g.cs
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\obj\Debug\KinectV2andV1_MarkupCompile.cache
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\obj\Debug\KinectV2andV1.g.resources
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\obj\Debug\KinectV2andV1.Properties.Resources.resources
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\obj\Debug\KinectV2andV1.csproj.GenerateResource.Cache
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\bin\Debug\KinectV2andV1.exe
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\bin\Debug\KinectV2andV1.pdb
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\bin\Debug\KinectV1Lib.dll
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\bin\Debug\Microsoft.Kinect.dll
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\bin\Debug\KinectV1Lib.pdb
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\bin\Debug\Microsoft.Kinect.xml
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\obj\Debug\KinectV2andV1.exe
+c:\users\carmine\documents\visual studio 2013\Projects\KinectV2andV1\KinectV2andV1\obj\Debug\KinectV2andV1.pdb
